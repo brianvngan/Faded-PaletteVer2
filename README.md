@@ -15,6 +15,7 @@ into a colorless forest in search of color facing the "color corrupted" while tr
 As you move through a terrain that generates randomly as you move, you will have to find the
 "clear tile" which looks like candy to get to the next floor.  Use the compass to help track 
 down the clear tile while avoiding or fighting monsters.  There is only one floor as of now.
+
 <img width="542" height="471" alt="image" src="https://github.com/user-attachments/assets/507c2e9f-e8b5-4f5a-9b1f-cf73dfd053b9" />
 
 ## Controls
