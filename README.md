@@ -7,6 +7,7 @@ the "color corrupted" along the way in a presumably colorless world.
 ## The Scenario
 Hearing strange rumors of colored candy, the protagonist wanders 
 into a colorless forest in search of color facing the "color corrupted" while trying to reach the candy.
+<img width="1910" height="1076" alt="image" src="https://github.com/user-attachments/assets/3fa92678-013f-4ac1-bbb5-bc174a41f830" />
 
 ## The Goal
 As you move through a terrain that generates randomly as you move, you will have to find the
