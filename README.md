@@ -7,12 +7,15 @@ the "color corrupted" along the way in a presumably colorless world.
 ## The Scenario
 Hearing strange rumors of colored candy, the protagonist wanders 
 into a colorless forest in search of color facing the "color corrupted" while trying to reach the candy.
-<img width="1910" height="1076" alt="image" src="https://github.com/user-attachments/assets/3fa92678-013f-4ac1-bbb5-bc174a41f830" />
+
+<img width="813" height="472" alt="image" src="https://github.com/user-attachments/assets/9ba9d137-8039-4493-ad5e-28f369537f45" />
+
 
 ## The Goal
 As you move through a terrain that generates randomly as you move, you will have to find the
 "clear tile" which looks like candy to get to the next floor.  Use the compass to help track 
 down the clear tile while avoiding or fighting monsters.  There is only one floor as of now.
+<img width="542" height="471" alt="image" src="https://github.com/user-attachments/assets/507c2e9f-e8b5-4f5a-9b1f-cf73dfd053b9" />
 
 ## Controls
 Use WASD for basic movement - Tapping it moves once, and after holding down keys for about 1.5s, can move
