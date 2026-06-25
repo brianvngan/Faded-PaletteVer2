@@ -3,6 +3,7 @@
 A 2.5D tile-based dungeon crawler about advancing to the next floor while defeating 
 the "color corrupted" along the way in a presumably colorless world.
 
+
 ## The Scenario
 Hearing strange rumors of colored candy, the protagonist wanders 
 into a colorless forest in search of color facing the "color corrupted" while trying to reach the candy.
@@ -34,9 +35,12 @@ When healing, tile will highlight green
 ## Music/Sound
 Use headphones for best experience.
 
+## How to Get Started
+1. Create a new Unity project using the 3D (URP) template
+2. Clone or download this repository and import the contents into your project
+3. Open the included Scene and press Play
+
 ## Credits
-Note: This game uses the 3D Universal Render Pipeline and there is no need to load a scene, can go to
-game screen and press play immediately.
 All 2D sprites (player, terrain, and monsters) were drawn by Brian Ngan
 
 Here are the links for the sound effects:
